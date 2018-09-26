@@ -4,6 +4,3 @@ var chocolateBars = [
   'kitkat'
   'skittles'
 ]
-
-function addElementToBeginningOfArray() =
-  return ChocolateBars.push("Twix")
