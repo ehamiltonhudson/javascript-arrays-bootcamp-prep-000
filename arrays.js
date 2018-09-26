@@ -6,4 +6,4 @@ var chocolateBars = [
 ]
 
 function addElementToBeginningOfArray() =
-  Array.push("new element");
+  return ChocolateBars.push("Twix")
