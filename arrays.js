@@ -1,6 +1,3 @@
 var chocolateBars = newArray(
-  "snickers"
-  "hundred grand"
-  "kitkat"
-  "skittles"
+  "snickers, hundred grand, kitkat, skittles"
 );
