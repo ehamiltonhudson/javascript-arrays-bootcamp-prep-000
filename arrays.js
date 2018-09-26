@@ -1,1 +1,1 @@
-var chocolateBars = ["snickers, hundred grand, kitkat, skittles"];
+var chocolateBars = newArray ("snickers, hundred grand, kitkat, skittles");
